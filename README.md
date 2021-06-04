@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Project's live link 
+   By default search term is set to "Covid" to avoid exceeding search limit. Search can work dynamically upto 100 searh term limits.
+### <a href="https://google-clone-five-wine.vercel.app/">LIVE DEMO</a>   
+
 ## Getting Started
 
 First, run the development server:
